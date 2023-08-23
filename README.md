@@ -3,6 +3,7 @@ An online tool built with React to generate random password strong that consists
 
 It generates a random string each time you click on the Generate button. Also, it allows you to copy the generated password to the Clipboard.
 
+# ScreenShot of Project
 <p align="center">
   <img width="100%" height="auto" alt='PassGen' src="./Screenshot.jpg">
 </p>
